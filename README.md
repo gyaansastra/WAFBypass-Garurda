@@ -2,9 +2,9 @@
   <a href="https://debarghaya.blogspot.com/" target="_blank" rel="noreferrer"><img src="https://github.com/gyaansastra/gyaansastra/blob/main/images/banner.png" alt="my banner"></a>
 </p>
 
-# Garurda WAF Obfuscation Library
+# Garuda WAF Obfuscation Library
 
-Survival can lead to innovation. Garurda's WAF library's inception is no exception. With the current surge of Log4Shell, we felt the pain and absence of any library for WAF obfuscation which can act as catalyst to evealuate the efficacy of WAF solutions. All the major vendors today does offer WAF solution's and they are undoubtedly good. But rather than getting than blindly trust these solutions and greeted by panic attack from the attacker it absolutely make sense to eveluate these WAF solutions as proactive measure to reduce risk. Garurda WAF Obfuscation is a python library developed to fast track the efficacy testing of Web Application Firewall. Individual fuctions can be used as rules in order to test specific modules during assesment. Currently Log4Shell obfuscation rules added and can be cosumed as library in any existing python project.
+Necessity can lead to innovation. The inception of Garuda's WAF library's is no exception. With the current surge of Log4Shell variants, we also felt the pain when we discover the absence of any library for WAF obfuscation, which can act as a catalyst to evaluate the efficacy of WAF solutions. All the major vendors today do offer WAF solutions, and they are undoubtedly good. But rather than blindly trusting these vendor solutions and being greeted by surprise attacks, it absolutely makes sense to evaluate these WAF solutions as a proactive measure to reduce risk and narrow down the attack surface. Garuda WAF Obfuscation is a python library developed to fast track the efficacy testing of Web Application Firewall. Individual functions can be used as regex rules in order to test specific modules during the assessment. Currently, Log4Shell obfuscation rules are added and can be consumed as a library in any existing python project.
 
 
 ## Authors
